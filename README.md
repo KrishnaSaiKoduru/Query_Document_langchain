@@ -133,42 +133,10 @@ python-dotenv
 openai
 ```
 
-## 🔐 Security
-
-- **Never commit** your `.env` file or API keys
-- The `.gitignore` file is configured to exclude sensitive files
-- Rotate your API keys regularly
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👤 Author
 
 **Krishna Sai Koduru**
 - GitHub: [@KrishnaSaiKoduru](https://github.com/KrishnaSaiKoduru)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 
-## 🙏 Acknowledgments
-
-- LangChain for the amazing framework
-- OpenAI for powerful language models
-- FAISS for efficient vector search
-
-## 📧 Contact
-
-For questions or feedback, please reach out via [GitHub Issues](https://github.com/KrishnaSaiKoduru/Query_Document_langchain/issues).
-
----
 
 ⭐ If you find this project useful, please consider giving it a star!
